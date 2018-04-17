@@ -20,7 +20,8 @@ Bug fixes:
 
 Features:
 
- - ui: Include kernel_options templating into preseed (#62)
+ - ui: Include kernel_options templating into preseed (#62) 
+ - provisioning: options=efiboot handling extended to all bootdev commands (#107)
 
 Docs:
 
