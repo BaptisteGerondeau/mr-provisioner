@@ -5,6 +5,7 @@
 Features:
 
  - ui: Include interface mac address as part of the preseed templating options (#129)
+ - provisioning: AutoYast (SUSE, SLES) 'preseed' support added
 
 Bug fixes:
 
