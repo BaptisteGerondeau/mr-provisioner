@@ -28,6 +28,13 @@ function PreseedEditContents_(props) {
       </p>
       <dl>
         <dt>
+          <code>users</code>
+        </dt>
+        <dd>
+          is a dictionary of the machines assignees usernames as keys mapped to
+          their ssh_key as value.
+        </dd>
+        <dt>
           <code>ssh_keys</code>
         </dt>
         <dd>
